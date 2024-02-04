@@ -1,1 +1,2 @@
-# Maji-Ndogo-Integrated-Project-Pandas-1
+## Integrated Maji Ndogo Water Project
+ Understanding Maji Ndogo's agriculture [Code Challenge]
